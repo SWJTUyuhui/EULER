@@ -1,3 +1,1 @@
-# EULER
-markdown:kramdown
-theme:minima
+https://projecteuler.net/
